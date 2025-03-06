@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGrid /> debe de hacer match con la snapshot 1`] = `
+<div>
+  <h3>
+     
+    One Piece
+     
+  </h3>
+  <div
+    class="card-grid"
+  >
+    <div
+      class="card"
+    >
+      <img
+        alt="Luffy"
+        src="https://localhost/luffy.jpg"
+      />
+      <p>
+         
+        Luffy
+         
+      </p>
+    </div>
+    <div
+      class="card"
+    >
+      <img
+        alt="Zoro"
+        src="https://localhost/zoro.jpg"
+      />
+      <p>
+         
+        Zoro
+         
+      </p>
+    </div>
+    <div
+      class="card"
+    >
+      <img
+        alt="Nami"
+        src="https://localhost/nami.jpg"
+      />
+      <p>
+         
+        Nami
+         
+      </p>
+    </div>
+  </div>
+</div>
+`;
